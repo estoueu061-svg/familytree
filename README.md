@@ -10,6 +10,141 @@ You can visit [https://familytree.pomodiary.com/](https://familytree.pomodiary.c
 
 ## Features
 
+Soul Land Wiki
+
+
+Home
+Saved
+Progress
+History
+Browse Wikis
+Community Central
+Switch to Light Theme
+Soul Land Wiki
+Tang San
+
+Save
+Donghua
+Manhua
+Game
+Live Action
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Profile
+Name
+Tang San
+Translation
+唐三
+Aliases
+Xiao San (小三)
+Little Hedgehog
+San Xiao (三小)
+San'er
+Brother San (三哥)
+Young Lord (小主)
+Little Monster (小怪物)
+Asura King (修罗王)
+Tang Yin (唐银)
+Holy Son of the Stars (Manhua Only)
+Title(s)
+Thousand Hands Douluo (千手斗罗)
+Thousand Hands Asura (千手修罗)
+King Lan Hao (蓝昊王)
+Blue Silver Emperor (蓝银皇)
+Sea God (海神)
+Asura God (修罗神)
+Supreme God King
+God of Wisdom
+Status
+☥ Alive
+Description
+Species
+½ Human & ½ Blue Silver Emperor (Former)
+God
+Age
+29 years (1st Life)
+26 years (SL1)
+10,000+ years (SL2)
+20,000+ years (SL3)
+30,000+ years (SL4)
+Gender
+♂ Male
+Height
+198 cm (6’5” approximately)
+Hair Color
+Brown (past life)
+Black (Light novel)
+Dark-Blue (2nd Awakening) (Light novel)
+Light-Blue
+Eye Color
+Brown (1st Life)
+Black (Former)
+Purple (PDE) (Former)
+Golden (PDE)
+Azure
+Bloodline
+Blue Silver Emperor
+Physique
+Ice and Fire Alchemy Physique
+Life Affinity Physique
+Relationships
+Spouse(s)
+Xiao Wu (Wife)
+Relative(s)
+Tang San (SL5) (Next Life)
+Tang Hao (Father)
+Ah Yin (Mother)
+Tang Wulin (Son)
+Tang Wutong (Daughter)
+Tang Xuanyu (Grandson)
+Dai Ying (Granddaughter)
+Huo Zhanji (Grandson)
+
+Extended Family
+Friend(s)
+Dai Mubai (Sworn Brother)
+Oscar (Sworn Brother)
+Ma Hongjun (Sworn Brother)
+Ning Rongrong (Sworn Sister)
+Zhu Zhuqing (Sworn Sister)
+Dugu Bo (Lifelong Friend)
+Xiao Bai (Mount)
+Hu Liena
+Hui Mie
+Sheng Ming
+Shan Liang
+Xie E
+Rong Nianbing
+Zhou Weiqing
+Ji Dong
+Lie Yan
+Changgong Wei
+Ye Yinzhu
+Ah Dai
+Lei Xiang
+Hai Long
+Tian Hen
+Master(s)
+Yu Xiaogang
+Tang Hao
+Tang Yuehua
+Bo Saixi
+Disciple(s)
+Xue Beng
+Ji Xiang
 - Visual representation of multiple generations of family members
 - Relationship connections between family members
 - Detailed personal information records
